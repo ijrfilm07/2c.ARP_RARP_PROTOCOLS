@@ -60,7 +60,8 @@ while True:
 c.close()
 ```
 ## OUPUT - ARP
-<img width="1041" height="307" alt="image" src="https://github.com/user-attachments/assets/c9a75fb5-c5e3-4ba8-bd04-c502dc9fdee9" />
+<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/191c74e7-a8b2-4617-ba93-71d5cd5ddb53" />
+
 
 ## PROGRAM - RARP
 ## RARPserver.py
@@ -105,7 +106,9 @@ while True:
 c.close()
 ```
 ## OUPUT -RARP
-<img width="1042" height="337" alt="image" src="https://github.com/user-attachments/assets/7af499a4-e5d7-4cdd-8d21-9689207660c0" />
+<img width="1915" height="1022" alt="image" src="https://github.com/user-attachments/assets/1d97e183-74eb-470a-a95b-fa3c884cbf04" />
+
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
